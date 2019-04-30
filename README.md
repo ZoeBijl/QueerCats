@@ -25,7 +25,7 @@ The current list:
 - sapphic (a flag for all lesbians)
 - trans (transgender)
 
-You can request new cats via a pull request or message to @moiety@queer.garden.
+You can request new cats via a [new pull request against this repo](https://github.com/ZoeBijl/QueerCats/compare?expand=1) or [message me on Mastodon](https://queer.garden/@moiety).
 
 ## Structure of project
 
