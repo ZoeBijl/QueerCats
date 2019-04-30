@@ -19,7 +19,7 @@ The current list:
 - gerderqueer
 - intersex
 - lesbian
-- nb (non-binary)
+- enby (non-binary)
 - pan (pansexual)
 - polyam (polyamory)
 - polysexual
