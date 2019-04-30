@@ -13,9 +13,11 @@ The current list:
 - ace (asexual)
 - agender
 - arom (aromantic)
+- autism
 - bi (bisexual)
 - genderfluid
 - gerderqueer
+- intersex
 - lesbian
 - nb (non-binary)
 - pan (pansexual)
@@ -47,6 +49,7 @@ In the SVG folder you’ll find a file named `Queer Cat.svg` this is the main bo
 
 These flags have been custom made:
 
+- Intersex.svg
 - Sapphic.svg which is based on Maya Kern’s revision of [Lydia’s design](https://medium.com/@lydiandragon/a-lesbian-flag-for-everyone-cef397b89459).
 
 ### Optimisation
@@ -60,6 +63,7 @@ The following flag SVG-files are sourced from Wikipedia:
 - Ace.svg
 - Agender.svg
 - Aromantic.svg
+- Autism.svg
 - Bisexual.svg
 - Demisexual.svg
 - Genderfluidity.svg
@@ -69,6 +73,7 @@ The following flag SVG-files are sourced from Wikipedia:
 - Pansexual.svg
 - Polyamory.svg
 - Polysexuality.svg
+- Pride.svg
 - Transgender.svg
 
 In due time these will be replaced with custom made once.
