@@ -1,0 +1,10 @@
+{
+    "queerCats": {
+      "src_sha256": "737A7C1DEE4599043C88EF39885A4FEFBF27F1CD5C23FC00609E6E42EB4E8C10",
+      "src": "https://raw.githubusercontent.com/mcrosson/QueerCats/pleroma-emoji-pack/PNG/PNG.zip",
+      "license": "CC0",
+      "homepage": "https://github.com/ZoeBijl/QueerCats",
+      "files": "https://raw.githubusercontent.com/mcrosson/QueerCats/pleroma-emoji-pack/pleroma/emoji-index/QueerCats/queerCats.json",
+      "description": "A collection of queer cat emoji. These are based on this emoji from Google’s Noto font. The Noto font was released by Google under the Apache 2.0 license."
+    }
+}
