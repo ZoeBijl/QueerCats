@@ -4,7 +4,7 @@
       "src": "https://github.com/ZoeBijl/QueerCats/releases/download/v0.2/Queer.Cats.v0.2.zip",
       "license": "CC0",
       "homepage": "https://github.com/ZoeBijl/QueerCats",
-      "files": "https://raw.githubusercontent.com/ZoeBijl/QueerCats/master/meta/pleroma/emoji-index/QueerCats/QueerCats.json",
+      "files": "https://zoebijl.github.io/QueerCats/meta/pleroma/emoji-index/QueerCats/QueerCats.json",
       "description": "A collection of queer cat emoji. These are based on this emoji from Google’s Noto font. The Noto font was released by Google under the Apache 2.0 license."
     }
 }
