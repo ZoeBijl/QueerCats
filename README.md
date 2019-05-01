@@ -10,7 +10,14 @@ Queer Cats is licensed under [CC0](https://creativecommons.org/share-your-work/p
 
 A whole bunch of pride flags represented as blobby cats!
 
-The current list:
+![A blobby cat coloured in the trans flag](https://zoebijl.github.io/QueerCats/PNG/queercat_trans.png)
+![A blobby cat coloured in the sapphic flag](https://zoebijl.github.io/QueerCats/PNG/queercat_sapphic.png)
+![A blobby cat holding a heart colour in the pride flag](https://zoebijl.github.io/QueerCats/PNG/heart/QueerCatHeart_Pride.png)
+![A blobby cat holding a heart colour in the autism flag](https://zoebijl.github.io/QueerCats/PNG/heart/QueerCatHeart_Autism.png)
+
+### Included flags
+
+There are currently sixteen flags included:
 
 - ace (asexual)
 - agender
