@@ -78,4 +78,4 @@ The following flag SVG-files are sourced from Wikipedia:
 - Pride.svg
 - Transgender.svg
 
-In due time these will be replaced with custom made once.
+In due time these will be replaced with custom made ones.
