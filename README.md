@@ -28,7 +28,7 @@ There are currently sixteen flags included:
 - gerderqueer
 - intersex
 - lesbian
-- nb (non-binary)
+- enby (non-binary)
 - pan (pansexual)
 - polyam (polyamory)
 - polysexual
