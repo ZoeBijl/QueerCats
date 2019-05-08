@@ -6,5 +6,13 @@
       "homepage": "https://github.com/ZoeBijl/QueerCats",
       "files": "QueerCats.json",
       "description": "A whole bunch of pride flags represented as blobby cat emoji!"
+    },
+    "QueerCatHearts": {
+      "src_sha256": "e665e2bda6dbf1ed26d3f4bf69f81a37182f1706ecf1cbd3f02c15fb87315bb4",
+      "src": "https://github.com/ZoeBijl/QueerCats/releases/download/v0.3/Queer.Cats.v0.3.zip",
+      "license": "CC0",
+      "homepage": "https://github.com/ZoeBijl/QueerCats",
+      "files": "QueerCatHearts.json",
+      "description": "A whole bunch of pride heart flags represented as blobby cat emoji holding the heart!"
     }
 }
