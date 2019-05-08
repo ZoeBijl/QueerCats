@@ -1,10 +1,10 @@
 {
     "QueerCats": {
-      "src_sha256": "fab0006c409ce93354a5961c015629d2b79f12da5ef8da553e623a593157f0f6",
-      "src": "https://github.com/ZoeBijl/QueerCats/releases/download/v0.2/Queer.Cats.v0.2.zip",
+      "src_sha256": "e665e2bda6dbf1ed26d3f4bf69f81a37182f1706ecf1cbd3f02c15fb87315bb4",
+      "src": "https://github.com/ZoeBijl/QueerCats/releases/download/v0.3/Queer.Cats.v0.3.zip",
       "license": "CC0",
       "homepage": "https://github.com/ZoeBijl/QueerCats",
-      "files": "https://zoebijl.github.io/QueerCats/meta/pleroma/emoji-index/QueerCats/QueerCats.json",
+      "files": "QueerCats.json",
       "description": "A whole bunch of pride flags represented as blobby cat emoji!"
     }
 }
