@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="750px" height="750px" viewBox="0 0 750 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
-    <title>QueerCatHeart_Trans</title>
+    <title>QueerCatHeart_MaleHomosexual</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M523.078517,66.9342892 C577.166131,121.021904 556.881384,216.881384 499.440692,292.440692 C403,420 266,495 217.378994,493.368924 C168.757989,491.737848 7.77618832,271.196426 1.38809416,180.098213 C-5,89 20,46 74.8594362,14.1476367 C142.990986,-25.4107514 237,26 284.875626,110.507603 C349,26 468.990902,12.8466748 523.078517,66.9342892 Z" id="path-1"></path>
     </defs>
-    <g id="QueerCatHeart_Trans" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="QueerCatHeart_MaleHomosexual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Blobcat/Heart" transform="translate(0.000000, 9.000000)">
             <g id="Blobcat-Heart">
                 <path d="M137,10.491184 C169.909356,31.6028467 200.216212,57.3411768 227.920568,87.7061743 L227.906415,87.6909276 C303.535237,48.6398719 398.330789,32.7854228 512.804599,53.8564005 C545.560084,59.8652762 575.595185,70.9371383 602.461693,86.1202904 C630.351844,64.2487129 659.532233,48.0377186 690,37.491184 C742,19.491184 752,39.491184 742,95.491184 C736.143612,128.286958 730.544453,171.886375 725.202524,226.289436 C751.040354,288.623049 756.816299,361.342935 737.695901,434.165265 C718.989274,505.307678 743.284358,511.074392 743.225532,549.205313 C743.225532,554.207054 742.578448,559.149951 741.284279,564.034004 C722.342348,637.235958 564.747842,694.491184 373.093157,694.491184 C168.614433,694.491184 2.90195627,629.409704 2.90195627,549.205313 C-8.29910886,450.300619 12.854635,337.35327 67.5947738,243.417607 C66.5739827,140.132229 66.7065696,79.8231508 68,62.491184 C70.1617413,33.5238511 84,-23.508816 137,10.491184 Z" id="Body" fill="#FCC21B" fill-rule="nonzero"></path>
@@ -27,12 +27,16 @@
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
-                        <g id="Flags/Transgender" mask="url(#mask-2)">
-                            <g transform="translate(251.559949, 249.645150) rotate(9.000000) translate(-251.559949, -249.645150) translate(-167.606717, -1.854850)" id="Transgender">
+                        <g id="Flags/Male-Homosexual" mask="url(#mask-2)">
+                            <g transform="translate(251.559949, 249.645150) rotate(9.000000) translate(-251.559949, -249.645150) translate(-167.606717, -1.854850)" id="male-homosexual">
                                 <g>
-                                    <polygon id="Blue" fill="#5BCEFA" fill-rule="nonzero" points="0 0 838 0 838 503 0 503"></polygon>
-                                    <polygon id="Pink" fill="#F5A9B8" fill-rule="nonzero" points="0 100.6 838 100.6 838 402.4 0 402.4"></polygon>
-                                    <polygon id="White" fill="#FFFFFF" fill-rule="nonzero" points="0 201.2 838 201.2 838 301.8 0 301.8"></polygon>
+                                    <rect id="1" stroke="#979797" fill="#054684" x="0.5" y="0.5" width="837" height="502"></rect>
+                                    <rect id="2" fill="#0D97D5" x="0" y="71.5807692" width="838" height="359.296769"></rect>
+                                    <rect id="3" fill="#8DBBE8" x="0" y="143.80641" width="838" height="215.593538"></rect>
+                                    <rect id="7" stroke="#979797" fill="#008C7E" x="0.5" y="0.5" width="837" height="142.80641"></rect>
+                                    <rect id="6" fill="#4FB2B4" x="0" y="71.5807692" width="838" height="143.80641"></rect>
+                                    <rect id="5" fill="#6BD1DB" x="0" y="143.80641" width="838" height="143.161538"></rect>
+                                    <rect id="4" fill="#F3F2FF" x="0" y="215.387179" width="838" height="71.8903077"></rect>
                                 </g>
                             </g>
                         </g>
