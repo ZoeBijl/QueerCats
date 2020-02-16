@@ -9,9 +9,9 @@
       </mask>
       <use fill="#FCC21B" fill-rule="nonzero" xlink:href="#a"/>
       <g fill-rule="nonzero" mask="url(#b)">
-        <path fill="#4A8123" d="M-264-18H941v723H-264z"/>
-        <path fill="#FFF" d="M-264-18H941v482H-264z"/>
-        <path fill="#B57EDC" d="M-264-18H941v241H-264z"/>
+        <path fill="#1C92F6" d="M-264-18H941v723H-264z"/>
+        <path fill="#07D569" d="M-264-18H941v482H-264z"/>
+        <path fill="#F61CB9" d="M-264-18H941v241H-264z"/>
       </g>
     </g>
     <path d="M229 375c13.333 47.333 23 71.333 29 72 6 .667 26.667-18 62-56 27.333 46 43.667 71.333 49 76 5.333 4.667 28-15.667 68-61" stroke="#2F2F2F" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
