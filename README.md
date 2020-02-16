@@ -28,6 +28,7 @@ There are currently sixteen flags included:
 - gerderqueer
 - intersex
 - lesbian
+- male homosexual
 - enby (non-binary)
 - pan (pansexual)
 - polyam (polyamory)
@@ -60,6 +61,7 @@ These flags have been custom made:
 
 - Intersex.svg
 - Sapphic.svg which is based on Maya Kern’s revision of [Lydia’s design](https://medium.com/@lydiandragon/a-lesbian-flag-for-everyone-cef397b89459).
+- Male Homosexual.svg
 
 ### Optimisation
 
