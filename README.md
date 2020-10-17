@@ -23,6 +23,7 @@ There are currently sixteen flags included:
 - agender
 - arom (aromantic)
 - autism
+- Black transgender
 - bi (bisexual)
 - genderfluid
 - gerderqueer
@@ -34,7 +35,7 @@ There are currently sixteen flags included:
 - polyam (polyamory)
 - polysexual
 - pride
-- sapphic (a flag for all lesbians)
+- sapphic
 - trans (transgender)
 
 You can request new cats via a [new issue on this repo](https://github.com/ZoeBijl/QueerCats/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
