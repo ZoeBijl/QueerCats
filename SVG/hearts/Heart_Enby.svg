@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="750px" viewBox="0 0 750 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Heart_Enby</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M746.607361,243.240969 C746.607361,131.061802 654.688417,40.1246354 541.318944,40.1246354 C472.494167,40.1246354 411.76275,73.7372188 374.5,125.113219 C337.23725,73.7372188 276.505833,40.1246354 207.701861,40.1246354 C94.3115833,40.1246354 2.39263889,131.041219 2.39263889,243.240969 C2.39263889,259.131302 4.43158333,274.527635 7.92691667,289.368219 C36.4305278,464.594135 233.355111,649.453052 374.5,700.211552 C515.624083,649.453052 712.569472,464.594135 741.031472,289.388802 C744.568417,274.548219 746.607361,259.151885 746.607361,243.240969 L746.607361,243.240969 Z" id="path-1"></path>
+    </defs>
+    <g id="Heart_Enby" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(1.000000, 4.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#DD2E44" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Flags/Non-binary" mask="url(#mask-2)" fill-rule="evenodd" stroke-width="1">
+                <g transform="translate(-181.398437, 37.628906)" id="Non-binary">
+                    <g>
+                        <rect id="Black" fill="#000000" x="0" y="499.5" width="1122" height="166.5"></rect>
+                        <rect id="Purple" fill="#9C59D1" x="0" y="333" width="1122" height="166.5"></rect>
+                        <rect id="White" fill="#FFFFFF" x="2.27373675e-13" y="166.5" width="1122" height="166.5"></rect>
+                        <rect id="Yellow" fill="#FFF430" x="1.13686838e-13" y="0" width="1122" height="166.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
