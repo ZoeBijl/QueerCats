@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="750px" viewBox="0 0 750 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Flag_Sapphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,457.328741 L0,83.4290088 C0,37.8160754 36.5699812,0.747978607 81.9553494,0.0111779646 L83.3333333,0 L666.666667,0 C712.227292,0 749.252879,36.6119675 749.988835,82.0494428 L750,83.4290088 L750,457.328741 C750,502.941674 713.430019,540.009771 668.044651,540.746572 L666.666667,540.75775 L83.3333333,540.75775 C37.7727083,540.75775 0.747120833,504.145782 0.0111651458,458.708307 L0,457.328741 L0,83.4290088 L0,457.328741 Z" id="path-1"></path>
+    </defs>
+    <g id="Flag_Sapphic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag">
+            <g id="Flags/Pride" transform="translate(0.000000, 105.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EEEEEE" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Flags/Sapphic" mask="url(#mask-2)">
+                    <g transform="translate(-76.000000, 0.000000)" id="Sapphic">
+                        <g>
+                            <rect id="Purple" fill="#663399" x="0" y="0" width="902" height="135.25"></rect>
+                            <rect id="Yellow" fill="#FFCC33" x="0" y="270.5" width="902" height="135.25"></rect>
+                            <rect id="Green" fill="#66CC33" x="0" y="405.75" width="902" height="135.25"></rect>
+                            <rect id="Pink" fill="#FF6699" x="0" y="135.25" width="902" height="135.25"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="750px" viewBox="0 0 750 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Flag_Progress</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,457.328741 L0,83.4290088 C0,37.8160754 36.5699812,0.747978607 81.9553494,0.0111779646 L83.3333333,0 L666.666667,0 C712.227292,0 749.252879,36.6119675 749.988835,82.0494428 L750,83.4290088 L750,457.328741 C750,502.941674 713.430019,540.009771 668.044651,540.746572 L666.666667,540.75775 L83.3333333,540.75775 C37.7727083,540.75775 0.747120833,504.145782 0.0111651458,458.708307 L0,457.328741 L0,83.4290088 L0,457.328741 Z" id="path-1"></path>
+    </defs>
+    <g id="Flag_Progress" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flag" transform="translate(1.000000, 105.000000)">
+            <g id="Flags/Pride">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#EEEEEE" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Flags/Progress" mask="url(#mask-2)">
+                    <g transform="translate(-1.000000, 0.000000)">
+                        <g id="Pride" stroke-width="1" fill="none">
+                            <polygon id="Path" fill="#750787" fill-rule="nonzero" points="0 0 902 0 902 541 0 541"></polygon>
+                            <polygon id="Path" fill="#004DFF" fill-rule="nonzero" points="0 0 902 0 902 450.833333 0 450.833333"></polygon>
+                            <polygon id="Path" fill="#008026" fill-rule="nonzero" points="0 0 902 0 902 360.666667 0 360.666667"></polygon>
+                            <polygon id="Path" fill="#FFED00" fill-rule="nonzero" points="0 0 902 0 902 270.5 0 270.5"></polygon>
+                            <polygon id="Path" fill="#FF8C00" fill-rule="nonzero" points="0 0 902 0 902 180.333333 0 180.333333"></polygon>
+                            <polygon id="Path" fill="#E40303" fill-rule="nonzero" points="0 0 902 0 902 90.1666667 0 90.1666667"></polygon>
+                        </g>
+                        <polygon id="Path-6-Copy-2" fill="#000000" points="0 -138.717949 400.971913 270.5 0 679.717949"></polygon>
+                        <polygon id="Path-6-Copy" fill="#784F17" points="0 -69.3589744 333.010572 270.5 0 610.358974"></polygon>
+                        <polygon id="Path-6" fill="#5BCEFA" points="0 0 265.049231 270.5 0 541"></polygon>
+                        <polygon id="Path-6-Copy-3" fill="#F5A9B8" points="0 69.3589744 197.08789 270.5 0 471.641026"></polygon>
+                        <polygon id="Path-6-Copy-4" fill="#FFFFFF" points="0 138.717949 129.126548 270.5 0 402.282051"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

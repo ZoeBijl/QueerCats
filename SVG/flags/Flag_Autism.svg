@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="750px" viewBox="0 0 750 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Flag_Autism</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-9.09494702e-13" y="0" width="750" height="541" rx="80"></rect>
+    </defs>
+    <g id="Flag_Autism" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Flags/Pride" transform="translate(0.000000, 104.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <g id="Flags/AutismFullsize" mask="url(#mask-2)">
+                <g transform="translate(-76.000000, 0.000000)" id="Autism_pride_flag-(wikipedia)">
+                    <g>
+                        <polygon id="Path" fill="#CC0000" fill-rule="nonzero" points="0 0 451 0 451 541 0 541"></polygon>
+                        <polygon id="Path" fill="#0000CC" fill-rule="nonzero" points="451 0 902 0 902 541 451 541"></polygon>
+                        <polygon id="Path" fill="#00CC00" fill-rule="nonzero" points="301.129231 0 602.258462 0 602.258462 541 301.129231 541"></polygon>
+                        <path d="M451.693846,271.19359 C812.493846,631.593392 812.493846,-89.2062129 451.693846,271.19359 C90.8938462,631.593392 90.8938462,-89.2062129 451.693846,271.19359 Z" id="Path" stroke="#FFFFFF" stroke-width="60"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
