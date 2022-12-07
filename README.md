@@ -44,15 +44,15 @@ You can request new cats via a [new issue on this repo](https://github.com/ZoeBi
 
 ## Structure of project
 
-- `/Fire` is where you’ll find the pride fire emoji set.
+- `/Fire` is where you’ll find the pride fire emoji set
 
-- `/Flags` is where you’ll find the SVG-files used to make the emoji.
+- `/Flags` is where you’ll find the SVG-files used to make the emoji
 
 - `/PNG` contains the exported PNG-files (128px)
 
 - `/SVG` contains exported SVG-files
 
-- `Queer Cats.sketch` you can open this in [Sketch](https://www.sketch.com/).
+- `Queer Cats.sketch` you can open this in [Sketch](https://www.sketch.com/)
 
 If you don’t have access to Sketch, you can also open the source materials in any other SVG editor.
 
