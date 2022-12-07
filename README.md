@@ -44,6 +44,8 @@ You can request new cats via a [new issue on this repo](https://github.com/ZoeBi
 
 ## Structure of project
 
+- `/Fire` is where you’ll find the pride fire emoji set.
+
 - `/Flags` is where you’ll find the SVG-files used to make the emoji.
 
 - `/PNG` contains the exported PNG-files (128px)
