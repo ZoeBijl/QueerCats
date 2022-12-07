@@ -4,9 +4,9 @@ A collection of queer cat emoji. These are based on [this emoji from Google’s 
 
 Queer Cats is licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7GOFCE)
-
 ![Collage of five queer cats with the text Queer Cats overlaid](https://zoebijl.github.io/QueerCats/meta/Banner.png)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P7GOFCE)
 
 ## What’s included?
 
