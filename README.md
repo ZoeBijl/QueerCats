@@ -52,7 +52,9 @@ You can request new cats via a [new issue on this repo](https://github.com/ZoeBi
 
 - `/SVG` contains exported SVG-files
 
-- `Queer Cats.sketch` you can open this in [Sketch](https://www.sketch.com/)
+- `Queer Cats.fig` you can open this in [Figma](https://www.figma.com/)
+
+- Deprecated: `Queer Cats.sketch` you can open this in [Sketch](https://www.sketch.com/)
 
 If you don’t have access to Sketch, you can also open the source materials in any other SVG editor.
 
