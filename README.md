@@ -42,6 +42,15 @@ There are currently sixteen flags included:
 
 You can request new cats via a [new issue on this repo](https://github.com/ZoeBijl/QueerCats/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
 
+## Sub-sets
+
+These sets don’t include cats but are all pride themed!
+
+- [Fire](https://github.com/ZoeBijl/QueerCats/tree/main/Fire); 19 pride inspired fire emoji!
+- Flag
+- Heart
+- 100
+
 ## Structure of project
 
 - `/Fire` is where you’ll find the pride fire emoji set
