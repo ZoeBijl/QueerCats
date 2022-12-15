@@ -57,8 +57,8 @@ Some notes on flags:
 These sets don’t include cats but are all pride themed!
 
 - [Fire](https://github.com/ZoeBijl/QueerCats/tree/main/Fire); 19 pride inspired fire emoji!
-- Flag
-- Heart
+- [Flag](https://github.com/ZoeBijl/QueerCats/tree/main/Flag); 19 pride flag emoji
+- [Heart](https://github.com/ZoeBijl/QueerCats/tree/main/heart); 19 pride flag heart emoji
 - 100
 
 ## Structure of project
