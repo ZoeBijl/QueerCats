@@ -7,7 +7,6 @@
       <mask id="b" fill="#fff">
         <use xlink:href="#a"/>
       </mask>
-      <use fill="#FCC21B" fill-rule="nonzero" xlink:href="#a"/>
       <g mask="url(#b)">
         <path fill="#000" d="M-264 524.25H941V705H-264z"/>
         <path fill="#9C59D1" d="M-264 343.5H941v180.75H-264z"/>
