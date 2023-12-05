@@ -19,7 +19,7 @@ A whole bunch of pride flags represented as blobby cats!
 
 ### Included flags
 
-There are currently sixteen flags included:
+There are currently eighteen flags included:
 
 - ace (asexual)
 - agender
@@ -39,6 +39,8 @@ There are currently sixteen flags included:
 - pride
 - sapphic
 - trans (transgender)
+- transfem
+- transmasc
 
 You can request new cats via a [new issue on this repo](https://github.com/ZoeBijl/QueerCats/issues/new) or [message me on Mastodon](https://queer.garden/@moiety).
 
